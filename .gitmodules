@@ -1,3 +1,6 @@
 [submodule "ipnd"]
 	path = ipnd
 	url = ./ipnd/
+[submodule "fend"]
+	path = fend
+	url = ./fend/
